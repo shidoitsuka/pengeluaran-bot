@@ -1,0 +1,13 @@
+/node_modules/
+
+#etc
+config.json
+package-lock.json
+/data/
+/assets
+data.json
+
+#linux-stuff
+*.deb
+*.tar.gz
+*.sh
